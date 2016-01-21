@@ -6,7 +6,8 @@ import org.usfirst.frc.team2521.robot.Robot;
 import edu.wpi.first.wpilibj.command.Command;
 
 /**
- *
+ * This command is used to toggle the drive mode from TankDrive to ArcadeDrive
+ * and vice-versa.
  */
 public class ToggleDriveMode extends Command {
 	
